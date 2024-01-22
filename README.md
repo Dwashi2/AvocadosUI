@@ -59,3 +59,5 @@ Open the file AvocadosUI.xcodeproj
 
 
 Daniel Washington Ignacio - danielvertigo@hotmail.com
+
+Click to access my [LinkedIn](https://www.linkedin.com/in/daniel-washington-ignacio-ab439b164/)
